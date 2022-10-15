@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Java Backend developer from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently preparing for placement!<br>🤝 I’m looking for help with<br>💬 Ask me about Java, HTML, CSS, JavaScript, DSA<br>📄 Check out my [Resume]()<br>💻 Know more about me [Portfolio]()<br>💻 All of my projects are available in My [GitHub Repositories]()<br>📫 How to reach me adnan.hussain.136660@gmail.com
+🔭 I’m currently preparing for placement!<br>🤝 I’m looking for help with<br>💬 Ask me about Java, HTML, CSS, JavaScript, DSA<br>📄 Check out my [Resume]()<br>💻 Know more about me [Portfolio]()<br>💻 All of my projects are available in My [GitHub Repositories](https://github.com/adnan25042001?tab=repositories)<br>📫 How to reach me adnan.hussain.136660@gmail.com
 
 
 ## 🌐 Socials:
