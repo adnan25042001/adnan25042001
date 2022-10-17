@@ -6,7 +6,7 @@
 <p><img  align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 # 💫 About Me:
-🔭 I’m currently preparing for placement!<br>💬 Ask me about Java, HTML, CSS, JavaScript, DSA<br>📄 Check out my [Resume]()<br>💻 Know more about me [Portfolio](adnan25042001.github.io)<br>💻 All of my projects are available in My [GitHub Repositories](https://github.com/adnan25042001?tab=repositories)<br>📫 How to reach me adnan.hussain.136660@gmail.com
+🔭 I’m currently preparing for placement!<br>💬 Ask me about Java, HTML, CSS, JavaScript, DSA<br>📄 Check out my [Resume]()<br>💻 Know more about me [Portfolio](https://adnan25042001.github.io/)<br>💻 All of my projects are available in My [GitHub Repositories](https://github.com/adnan25042001?tab=repositories)<br>📫 How to reach me adnan.hussain.136660@gmail.com
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
