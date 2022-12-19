@@ -28,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/adnanhussain0425/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Adnan Hussain" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/adnan_hussain_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sarthaksingh_161" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/adnan_hussain_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adnan_hussain_11" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Tech-Stack :</h3>
@@ -39,7 +39,7 @@
 </div>
 
 <p align="center">
-<a href="https://github.com/adnan25042001"><img src="https://github-readme-stats.vercel.app/api?username=sarthak0008&theme=radical&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true" alt="adnan25042001's GitHub stats" /></a>
+<a href="https://github.com/adnan25042001"><img src="https://github-readme-stats.vercel.app/api?username=adnan25042001&theme=radical&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true" alt="adnan25042001's GitHub stats" /></a>
 </p>
 
 <div align="center">
