@@ -3,10 +3,29 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<p><img  align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak0008&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak0008" /> </p>
+<p align="center">
+    <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img
+            src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=5468FF&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+Java-Backend+developer." /></a>
+</p>
 
-# 💫 About Me:
-🔭 I’m currently preparing for placement!<br>💬 Ask me about Java, HTML, CSS, JavaScript, DSA<br>📄 Check out my [Resume]()<br>💻 Know more about me [Portfolio](https://adnan25042001.github.io/)<br>💻 All of my projects are available in My [GitHub Repositories](https://github.com/adnan25042001?tab=repositories)<br>📫 How to reach me adnan.hussain.136660@gmail.com
+- 🌱 I’m currently learning **Full-Stack Java Development course from Masai School.**
+
+- 👨‍💻 All of my projects are available at [Portfolio](https://adnan25042001.github.io)
+
+- 💬 Ask me about **Java, MySQL ,Maven, Spring Boot, AWS, JavaScript, HTML, CSS**
+
+- 📫 How to reach me **adnan.hussain.136660@gmail.com**
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-gBU8RxGX9KB-qQgiwIDCkVAqFbSyAs_/view?usp=share_link).
+
+- 💻 My biggest motive is that I can write some code that would automate an organization's service or help them in solving a problem.
+
+- ♟ I like playing Chess and Sudoku.
+
+## About Me
+
+⚡Enthusiastic aspiring full-stack Java Backend developer specialized in Security programmes. Keen to create new and innovative websites by showcasing my skills. Apart from that a great team player, ability to work with different kinds of people with different thinkings. In my spare time, I like to gain skills by which I can create something productive. I am looking to start my career as a Java-developer with a reputed firm driven by technology.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
