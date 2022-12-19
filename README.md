@@ -39,7 +39,7 @@
 </div>
 
 <p align="center">
-<a href="https://github.com/adnan25042001"><img src="https://github-readme-stats.vercel.app/api?username=sarthak0008&theme=radical&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true" alt="sarthak0008's GitHub stats" /></a>
+<a href="https://github.com/adnan25042001"><img src="https://github-readme-stats.vercel.app/api?username=sarthak0008&theme=radical&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true" alt="adnan25042001's GitHub stats" /></a>
 </p>
 
 <div align="center">
