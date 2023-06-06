@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adnan Hussain</h1>
-<h3 align="center">A passionate Java Backend developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="center">
     <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img
@@ -22,7 +22,7 @@
 
 ## About Me
 
-⚡Enthusiastic aspiring full-stack Java Backend developer specialized in Security programmes. Keen to create new and innovative websites by showcasing my skills. Apart from that a great team player, ability to work with different kinds of people with different thinkings. In my spare time, I like to gain skills by which I can create something productive. I am looking to start my career as a Java-developer with a reputed firm driven by technology.
+⚡Enthusiastic aspiring full stack developer specialized in Security programmes. Keen to create new and innovative websites by showcasing my skills. Apart from that a great team player, ability to work with different kinds of people with different thinkings. In my spare time, I like to gain skills by which I can create something productive. I am looking to start my career as a Java-developer with a reputed firm driven by technology.
 
 
 <h3 align="left">Connect with me:</h3>
