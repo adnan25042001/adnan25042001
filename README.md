@@ -3,7 +3,7 @@
 
 <p align="center">
     <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img
-            src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=5468FF&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+Java+developer." /></a>
+            src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=5468FF&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+Developer." /></a>
 </p>
 
 - 🌱 I’m a **FULL STACK DEVELOPER.**
