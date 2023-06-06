@@ -6,11 +6,11 @@
             src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=5468FF&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+Java+developer." /></a>
 </p>
 
-- 🌱 I’m currently learning **Full-Stack Java Development course from Masai School.**
+- 🌱 I’m a **FULL STACK DEVELOPER.**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://adnan25042001.github.io)
 
-- 💬 Ask me about **Java, MySQL ,Maven, Spring Boot, AWS, JavaScript, HTML, CSS**
+- 💬 Ask me about **Java, JavaScript, HTML, CSS, React, Express, NodeJs, MySQL, MongoDB, Spring Boot, Hibernate, Maven**
 
 - 📫 How to reach me **adnan.hussain.136660@gmail.com**
 
